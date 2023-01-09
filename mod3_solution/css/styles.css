@@ -1,0 +1,52 @@
+/** HEADER **/
+#header-nav {
+	background-color: gray;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #000;
+}
+
+button.navbar-toggle.collapsed{
+	color: black;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: black;
+}
+
+.navbar-default .navbar-brand {
+    color: black;
+}
+.navbar-default .navbar-nav>li>a {
+	color: black;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #000000;
+}
+
+
+li {
+	text-align: center;
+}
+
+h1{
+	font-weight: bold;
+}
+
+h2{
+	font-weight: bold;
+	text-align: center;
+}
+
+section{
+  	padding: 5px;
+	background-color: #adacac;
+	height: 1000px;
+	margin-top: 40px;
+} 
+
+
